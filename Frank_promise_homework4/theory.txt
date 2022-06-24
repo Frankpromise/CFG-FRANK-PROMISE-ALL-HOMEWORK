@@ -1,0 +1,31 @@
+
+"""
+Working Directory: The current directory you are located
+· Staging Area: The area where your added files are waiting to be committed
+· Local Repo (head): current branch
+· Remote repo (master): A repo default branch
+
+"""
+"""
+WORKING DIRECTORY STATES:
+· Staged : means a file has been added to the version control but waiting to be committed
+· Modified : When a file waiting to be committed detects any changes to the file, it changes to modified
+· Committed :  Means a file has been successfully committed to VCS. but still awaits pushing.
+"""
+
+
+"""
+Git add : a command that adds file to git staging area
+· Git commit: Use to commit files to version control
+· Git push : use to push committed files to remote repository
+· Git fetch : git fetch is used to download  new data from a remote repository
+but it doesn't integrate any of this new data into your working file.
+
+· Git merge: a command that tells git to add together two branches
+
+· Git pull: git pull is used to download  new data from a remote repository
+and  it  integrates any of this new data into your working file.
+"""
+
+
+
